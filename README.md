@@ -4,8 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Amez+Amanj....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-# HI :)
----------------------------------
 
 #### Find me on: 
  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><img>](https://twitter.com/01Amez)
@@ -17,14 +15,15 @@
 <br>
 <p align="center">
   
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <!--<code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code> -->
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+ 
 </p>
 <hr>
