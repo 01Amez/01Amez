@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Amez+....;Nice+to+meet+you!&center=true&size=30">
@@ -6,17 +5,18 @@
 </h1>
 
 #### Find me on: 
- [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><img>](https://twitter.com/01Amez)
- [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><img>](https://www.instagram.com/01amez/)
- [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><img>](https://www.youtube.com/channel/UC8ONVBYOtOlWTpp0p-urNoA)
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>](https://twitter.com/01Amez)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/z1amez/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/z1amez/)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UC8ONVBYOtOlWTpp0p-urNoA)
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  
-  <!--<code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code> -->
+
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code> 
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
